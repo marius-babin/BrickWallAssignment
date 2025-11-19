@@ -32,12 +32,11 @@ public static class BrickOnHoleValidator
         // Calculate knobs supporting the brick
         var supportAtStart = holeStart - brickStart;
         var supportAtEnd = brickEnd - holeEnd;
-        var totalSupport = supportAtStart + supportAtEnd;
         
         // Amount of air below the brick
         var airBelow = Math.Max(0, Math.Min(brickEnd, holeEnd) - Math.Max(brickStart, holeStart));
         
-        // The air below must not be bigger than the support
-        return airBelow <= totalSupport;
+        // The air below must not be bigger than the support on at least one end
+        return airBelow <= supportAtStart || airBelow <= supportAtEnd;
     }
 }
