@@ -34,8 +34,8 @@ public class SuperSmartWallGenerator
             
             while (currentLength < wallLength)
             {
-                // Conditions: row must not be top or bottom, no current hole, enough space left
-                if (shouldHaveHole && currentHole == null && currentLength > 0)
+                // Conditions: row must not be top or bottom, no current hole
+                if (shouldHaveHole && currentHole == null)
                 {
                     var holeSize = _random.Next(1, 6); // Random hole size
                     
