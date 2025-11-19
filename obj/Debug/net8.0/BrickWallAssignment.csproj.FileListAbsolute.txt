@@ -1,0 +1,14 @@
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/bin/Debug/net8.0/BrickWallAssignment
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/bin/Debug/net8.0/BrickWallAssignment.deps.json
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/bin/Debug/net8.0/BrickWallAssignment.runtimeconfig.json
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/bin/Debug/net8.0/BrickWallAssignment.dll
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/bin/Debug/net8.0/BrickWallAssignment.pdb
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/obj/Debug/net8.0/BrickWallAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/obj/Debug/net8.0/BrickWallAssignment.AssemblyInfoInputs.cache
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/obj/Debug/net8.0/BrickWallAssignment.AssemblyInfo.cs
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/obj/Debug/net8.0/BrickWallAssignment.csproj.CoreCompileInputs.cache
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/obj/Debug/net8.0/BrickWallAssignment.dll
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/obj/Debug/net8.0/refint/BrickWallAssignment.dll
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/obj/Debug/net8.0/BrickWallAssignment.pdb
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/obj/Debug/net8.0/BrickWallAssignment.genruntimeconfig.cache
+/Users/dkmarbab/Documents/LegoProjects/BrickWallAssignment/BrickWallAssignment/obj/Debug/net8.0/ref/BrickWallAssignment.dll
