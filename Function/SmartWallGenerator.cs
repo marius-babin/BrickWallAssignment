@@ -30,9 +30,9 @@ public class SmartWallGenerator
             {
                 var brickIndex = _random.Next(0, BrickConstants.AvailableBricks.Length);
                 var brickSize = BrickConstants.AvailableBricks[brickIndex];
-
+                
                 var brickEnd = currentLength + brickSize;
-                if (brickEnd <= wallLength && BrickPlacementValidator.IsValidBrickPlacement(currentLength, brickSize, previousJoints))
+                if (brickEnd <= wallLength && BrickPlacementValidator.IsValidBrickPlacement(brickEnd, previousJoints))
                 {
                     var brickStr = BrickCharSelector.GetRandomBrick(brickSize, previousChar);
                     previousChar = brickStr[0];

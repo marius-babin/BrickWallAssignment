@@ -62,7 +62,7 @@ public class SuperSmartWallGenerator
                 var brickEnd = currentLength + brickSize;
                 
                 if (brickEnd <= wallLength && 
-                    BrickPlacementValidator.IsValidBrickPlacement(currentLength, brickSize, previousJoints) &&
+                    BrickPlacementValidator.IsValidBrickPlacement(brickEnd, previousJoints) &&
                     BrickOnHoleValidator.CanPlaceBrickOverHole(currentLength, brickSize, previousHole))
                 {
                     var brickStr = BrickCharSelector.GetRandomBrick(brickSize, previousChar);
